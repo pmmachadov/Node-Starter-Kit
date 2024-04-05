@@ -1,20 +1,20 @@
 [
   {
-    "id": 1,
+    "id": "123e4567-e89b-12d3-a456-426614174000",
     "title": "The Godfather",
     "certificate": "18",
     "yearOfRelease": 1972,
     "director": "Francis Ford Coppola"
   },
   {
-    "id": 2,
+    "id": "123e4567-e89b-12d3-a456-426614174001",
     "title": "The Shawshank Redemption",
     "certificate": "15",
     "yearOfRelease": 1994,
     "director": "Frank Darabont"
   },
   {
-    "id": 3,
+    "id": "123e4567-e89b-12d3-a456-426614174002",
     "title": "Schindler's List",
     "certificate": "15",
     "yearOfRelease": 1993,
